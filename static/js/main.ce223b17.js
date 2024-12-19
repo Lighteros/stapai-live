@@ -44573,21 +44573,21 @@
                             children: [
                               (0, Re.jsx)(Se, {
                                 target: "_blank",
-                                to: "https://twitter.com/step_ai_erc20",
+                                to: "https://twitter.com/",
                                 children: (0, Re.jsx)("li", {
                                   children: "Twitter",
                                 }),
                               }),
                               (0, Re.jsx)(Se, {
                                 target: "_blank",
-                                to: "https://t.me/step_ai_erc20",
+                                to: "https://t.me/",
                                 children: (0, Re.jsx)("li", {
                                   children: "Telegram",
                                 }),
                               }),
                               (0, Re.jsx)(Se, {
                                 target: "_blank",
-                                to: "https://www.dextools.io/app/en/token/stepaitoken?t=1734581584042",
+                                to: "https://www.dextools.io/app/en/ether/pool-explorer/0x00000000000000000000000000000000000000",
                                 children: (0, Re.jsx)("li", {
                                   children: "Dextools",
                                 }),
@@ -45367,7 +45367,7 @@
                             (0, Re.jsx)("div", {
                               className: aI.col,
                               children: (0, Re.jsxs)(Se, {
-                                to: "https://twitter.com/step_ai_erc20",
+                                to: "https://twitter.com/",
                                 target: "_blank",
                                 children: [
                                   (0, Re.jsx)("span", {
@@ -45384,7 +45384,7 @@
                             (0, Re.jsx)("div", {
                               className: aI.col,
                               children: (0, Re.jsxs)(Se, {
-                                to: "https://t.me/step_ai_erc20",
+                                to: "https://t.me/",
                                 target: "_blank",
                                 children: [
                                   (0, Re.jsx)("span", {
@@ -45401,7 +45401,7 @@
                             (0, Re.jsx)("div", {
                               className: aI.col,
                               children: (0, Re.jsxs)(Se, {
-                                to: "https://www.dextools.io/app/en/token/stepaitoken?t=1734581584042",
+                                to: "https://www.dextools.io/app/en/ether/pool-explorer/0x00000000000000000000000000000000000000",
                                 target: "_blank",
                                 children: [
                                   (0, Re.jsx)("span", {
@@ -47707,7 +47707,7 @@
                                       (0, Re.jsx)(Se, {
                                         target: "_blank",
                                         className: EN.social,
-                                        to: "https://twitter.com/step_ai_erc20",
+                                        to: "https://twitter.com/",
                                         rel: "noopener noreferrer",
                                         children: (0, Re.jsx)("span", {
                                           children: Ed,
@@ -47716,7 +47716,7 @@
                                       (0, Re.jsx)(Se, {
                                         target: "_blank",
                                         className: EN.social,
-                                        to: "https://t.me/step_ai_erc20",
+                                        to: "https://t.me/",
                                         rel: "noopener noreferrer",
                                         children: (0, Re.jsx)("span", {
                                           children: Td,
@@ -47725,7 +47725,7 @@
                                       (0, Re.jsx)(Se, {
                                         target: "_blank",
                                         className: EN.social,
-                                        to: "https://www.dextools.io/app/en/token/stepaitoken?t=1734581584042",
+                                        to: "https://www.dextools.io/app/en/ether/pool-explorer/0x00000000000000000000000000000000000000",
                                         rel: "noopener noreferrer",
                                         children: (0, Re.jsx)("span", {
                                           children: xd,
@@ -47736,7 +47736,7 @@
                                         className: ""
                                           .concat(EN.social_img, " ")
                                           .concat(EN.unicorn),
-                                        to: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x90261f2a108709c186c9ccb1026da17fa73d2895",
+                                        to: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000",
                                         rel: "noopener noreferrer",
                                         children: [
                                           (0, Re.jsx)("img", {
@@ -48417,7 +48417,7 @@
                         children: [
                           (0, Re.jsx)(Se, {
                             target: "_blank",
-                            to: "https://twitter.com/step_ai_erc20",
+                            to: "https://twitter.com/",
                             className: hO.social,
                             children: (0, Re.jsx)("span", {
                               children: Ed,
@@ -48425,7 +48425,7 @@
                           }),
                           (0, Re.jsx)(Se, {
                             target: "_blank",
-                            to: "https://www.dextools.io/app/en/token/stepaitoken?t=1734581584042",
+                            to: "https://www.dextools.io/app/en/ether/pool-explorer/0x00000000000000000000000000000000000000",
                             className: hO.social,
                             children: (0, Re.jsx)("span", {
                               children: xd,
@@ -48433,7 +48433,7 @@
                           }),
                           (0, Re.jsx)(Se, {
                             target: "_blank",
-                            to: "https://t.me/step_ai_erc20",
+                            to: "https://t.me/",
                             className: hO.social,
                             children: (0, Re.jsx)("span", {
                               children: Td,
@@ -48441,30 +48441,10 @@
                           }),
                           (0, Re.jsx)(Se, {
                             target: "_blank",
-                            className: hO.social_img,
-                            to: "https://www.coingecko.com/",
-                            rel: "noopener noreferrer",
-                            children: (0, Re.jsx)("img", {
-                              src: "/icons/dino.png",
-                              alt: "icon",
-                            }),
-                          }),
-                          (0, Re.jsx)(Se, {
-                            target: "_blank",
-                            className: hO.social_img,
-                            to: "https://coinmarketcap.com/",
-                            rel: "noopener noreferrer",
-                            children: (0, Re.jsx)("img", {
-                              src: "/icons/coinMarket.png",
-                              alt: "icon",
-                            }),
-                          }),
-                          (0, Re.jsx)(Se, {
-                            target: "_blank",
                             className: ""
                               .concat(hO.social_img, " ")
                               .concat(hO.unicorn),
-                            to: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x90261f2a108709c186c9ccb1026da17fa73d2895",
+                            to: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000",
                             rel: "noopener noreferrer",
                             children: (0, Re.jsx)("img", {
                               src: "/icons/unicorn.png",
