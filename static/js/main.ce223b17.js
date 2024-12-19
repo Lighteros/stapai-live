@@ -47762,7 +47762,7 @@
                                       (0, Re.jsx)(sI, {
                                         className: EN.joinBtn,
                                         variant: "light",
-                                        href: "https://app.stepai.live",
+                                        href: "https://stapai-live-app-go.vercel.app/",
                                         children: "Open Dapp",
                                       }),
                                       (0, Re.jsx)(sI, {
@@ -48459,7 +48459,7 @@
                           (0, Re.jsx)(sI, {
                             className: EN.joinBtn,
                             variant: "light",
-                            href: "https://app.stepai.live",
+                            href: "https://stapai-live-app-go.vercel.app/",
                             children: "Open Dapp",
                           }),
                           (0, Re.jsx)(sI, {
