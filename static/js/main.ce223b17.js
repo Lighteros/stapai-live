@@ -44587,7 +44587,7 @@
                               }),
                               (0, Re.jsx)(Se, {
                                 target: "_blank",
-                                to: "https://www.dextools.io/app/en/ether/pool-explorer/0x00000000000000000000000000000000000000",
+                                to: "https://www.dextools.io/app/en/ether/pair-explorer/0x058dd8718a5e7abba1fda64802007ba13718403a?t=1735142786727",
                                 children: (0, Re.jsx)("li", {
                                   children: "Dextools",
                                 }),
@@ -44602,12 +44602,6 @@
                       children: (0, Re.jsxs)("div", {
                         className: dk,
                         children: [
-                          (0, Re.jsx)("h6", {
-                            children: "Contact",
-                          }),
-                          (0, Re.jsx)("span", {
-                            children: "hi@stepai.live",
-                          }),
                           (0, Re.jsx)("div", {
                             className: fk,
                             children: (0, Re.jsx)("img", {
@@ -47260,7 +47254,7 @@
           catalogBtn: "header_catalogBtn__ZqXNN",
           navbar: "header_navbar__I53Wt",
         },
-        xN = "0x0000000000000000000000000000000000000000";
+        xN = "0x572baDEea8E6301Ef386a391A84a5223E76e86C400";
       var TN = {
           color: void 0,
           size: void 0,
@@ -47533,7 +47527,7 @@
                                       (0, Re.jsx)(Se, {
                                         target: "_blank",
                                         className: EN.social,
-                                        to: "https://www.dextools.io/app/en/ether/pool-explorer/0x00000000000000000000000000000000000000",
+                                        to: "https://www.dextools.io/app/en/ether/pair-explorer/0x058dd8718a5e7abba1fda64802007ba13718403a?t=1735142786727",
                                         rel: "noopener noreferrer",
                                         children: (0, Re.jsx)("span", {
                                           children: xd,
@@ -47544,7 +47538,7 @@
                                         className: ""
                                           .concat(EN.social_img, " ")
                                           .concat(EN.unicorn),
-                                        to: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000",
+                                        to: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x572baDEea8E6301Ef386a391A84a5223E76e86C4",
                                         rel: "noopener noreferrer",
                                         children: [
                                           (0, Re.jsx)("img", {
@@ -47572,11 +47566,6 @@
                                         variant: "light",
                                         href: "https://stapai-live-app-go.vercel.app/",
                                         children: "Open Dapp",
-                                      }),
-                                      (0, Re.jsx)(sI, {
-                                        variant: "outline-light",
-                                        onClick: yk,
-                                        children: "Whitepaper",
                                       }),
                                     ],
                                   }),
@@ -48233,7 +48222,7 @@
                           }),
                           (0, Re.jsx)(Se, {
                             target: "_blank",
-                            to: "https://www.dextools.io/app/en/ether/pool-explorer/0x00000000000000000000000000000000000000",
+                            to: "https://www.dextools.io/app/en/ether/pair-explorer/0x058dd8718a5e7abba1fda64802007ba13718403a?t=1735142786727",
                             className: hO.social,
                             children: (0, Re.jsx)("span", {
                               children: xd,
@@ -48252,7 +48241,7 @@
                             className: ""
                               .concat(hO.social_img, " ")
                               .concat(hO.unicorn),
-                            to: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x00000000000000000000000000000000000000",
+                            to: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x572baDEea8E6301Ef386a391A84a5223E76e86C4",
                             rel: "noopener noreferrer",
                             children: (0, Re.jsx)("img", {
                               src: "/icons/unicorn.png",
@@ -48269,11 +48258,6 @@
                             variant: "light",
                             href: "https://stapai-live-app-go.vercel.app/",
                             children: "Open Dapp",
-                          }),
-                          (0, Re.jsx)(sI, {
-                            variant: "outline-light",
-                            onClick: yk,
-                            children: "Whitepaper",
                           }),
                           (0, Re.jsx)(sI, {
                             variant: "outline-light",
